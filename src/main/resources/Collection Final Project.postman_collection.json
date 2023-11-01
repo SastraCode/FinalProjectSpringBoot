@@ -65,12 +65,12 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:6666/api/addAgency",
+					"raw": "http://localhost:8080/api/addAgency",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "6666",
+					"port": "8080",
 					"path": [
 						"api",
 						"addAgency"
@@ -86,7 +86,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"email\":\"irfan@gmail.com\",\r\n    \"password\":\"irfan\"\r\n}",
+					"raw": "{\r\n    \"email\":\"sastra@gmail.com\",\r\n    \"password\":\"sastra\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -94,12 +94,12 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:6666/auth/login",
+					"raw": "http://localhost:8080/auth/login",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "6666",
+					"port": "8080",
 					"path": [
 						"auth",
 						"login"
@@ -124,12 +124,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:6666/api/getAgency",
+					"raw": "http://localhost:8080/api/getAgency",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "6666",
+					"port": "8080",
 					"path": [
 						"api",
 						"getAgency"
@@ -163,12 +163,12 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:6666/api/addBuses",
+					"raw": "http://localhost:8080/api/addBuses",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "6666",
+					"port": "8080",
 					"path": [
 						"api",
 						"addBuses"
@@ -247,12 +247,12 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:6666/api/addTrip",
+					"raw": "http://localhost:8080/api/addTrip",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "6666",
+					"port": "8080",
 					"path": [
 						"api",
 						"addTrip"
@@ -385,12 +385,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:6666/api/getBus",
+					"raw": "http://localhost:8080/api/getBus",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "6666",
+					"port": "8080",
 					"path": [
 						"api",
 						"getBus"
@@ -454,12 +454,12 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:6666/api/addStop",
+					"raw": "http://localhost:8080/api/addStop",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "6666",
+					"port": "8080",
 					"path": [
 						"api",
 						"addStop"
